@@ -4,7 +4,7 @@ Implement Achievements list screen using the VIPER architecture.
 More at: https://www.dropbox.com/s/u1xm4x5geyr64nh/stash-ios-challenge.zip?dl=0
 
 # High Level Design and Implementation
-For implementation, using VIPER architecture, I tried to use simple structuring and clear code principles as much as possible. Please see attached image to see the high-level relationships and communications for Achievements List module.
+For implementation, using VIPER architecture, I tried to use simple structuring and clear code principles as much as possible. Please see included image to see the high-level relationships and communications for Achievements List module.
 
 The implementation of the project consisted of
 1) Learning about VIPER architecture
