@@ -4,7 +4,7 @@ Implement Achievements list screen using the VIPER architecture.
 More at: https://www.dropbox.com/s/u1xm4x5geyr64nh/stash-ios-challenge.zip?dl=0
 
 # High Level Design and Implementation
-For implementation, using VIPER architecture, I tried to use simple structuring and clear code principles as much as possible. Please see attached image to see the high-level relationships and communications for Achievements List\'a0module.\
+For implementation, using VIPER architecture, I tried to use simple structuring and clear code principles as much as possible. Please see attached image to see the high-level relationships and communications for Achievements List module.
 
 The implementation of the project consisted of
 1) Learning about VIPER architecture
@@ -16,7 +16,7 @@ The implementation of the project consisted of
 7) Review / repeat 1 - 6
 8) Writing unit tests
 
-For image download,\'a0I used a lightweight\'a0image downloader tool called\'a0\cb4 SDWebImage\cb1 \'a0which helps with caching too.
+For image download, I used a lightweight image downloader tool called SDWebImage which helps with image caching too.
 
 # Known Issues
 Testing is missing some of the UI tests, Wireframe, DataManager, Model tests.
